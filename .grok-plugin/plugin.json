@@ -1,0 +1,20 @@
+{
+  "name": "authorityprompt",
+  "version": "0.2.0",
+  "description": "Manage your company's official AI identity with AuthorityPrompt: verified facts with sources and provenance, AIO readiness audits, and LLM visibility checks. Sign in to work with your own company data.",
+  "author": {
+    "name": "AuthorityPrompt",
+    "url": "https://authorityprompt.com"
+  },
+  "homepage": "https://authorityprompt.com",
+  "repository": "https://github.com/authorityprompt/grok-authorityprompt-mcp",
+  "license": "MIT",
+  "keywords": [
+    "authorityprompt",
+    "ai visibility",
+    "llm trust",
+    "company facts",
+    "aio audit"
+  ],
+  "logo": "assets/icon.png"
+}

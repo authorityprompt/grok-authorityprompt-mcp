@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "authorityprompt": {
+      "type": "http",
+      "url": "https://authorityprompt.com/api/v1/integrations/grok/mcp"
+    }
+  }
+}
