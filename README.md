@@ -85,7 +85,7 @@ the flow with PKCE.
 - Website: https://authorityprompt.com
 - Privacy: https://authorityprompt.com/privacy
 - Terms: https://authorityprompt.com/terms
-- Support: support@authorityprompt.com
+- Support: hello@authorityprompt.com
 
 ## License
 
